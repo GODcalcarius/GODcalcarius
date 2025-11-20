@@ -10,7 +10,7 @@
 <tr>
 <td>
 <div align="left">
-  <span style="font-size:22px;"><b>👋 Hi, I'm Akshat Srivastava</b></span><br>
+  <span style="font-size:22px;"><b>👋 Hi, I'm Salman Majeed </b></span><br>
   🎓 Electrical Engineering Graduate (Data Science Enthusiast)<br>
   📊 Aspiring <b>Data Analyst / Data Scientist</b><br>
   💡 Passionate about <b>Data Visualization, Analytics, ML & Neural Networks</b>
