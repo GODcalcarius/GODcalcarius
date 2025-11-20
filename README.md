@@ -11,8 +11,8 @@
 <td>
 <div align="left">
   <span style="font-size:22px;"><b>👋 Hi, I'm Salman Majeed </b></span><br>
-  🎓 Electrical Engineering Graduate (Data Science Enthusiast)<br>
-  📊 Aspiring <b>Data Analyst / Data Scientist</b><br>
+  🎓 Electrical Engineering Graduate (Data Science Enthusiast/ Embedded Engineer Enthusiast )<br>
+  📊 Aspiring <b>Data Analyst / Embedded Engineer </b><br>
   💡 Passionate about <b>Data Visualization, Analytics, ML & Neural Networks</b>
 </div>
 </td>
@@ -28,11 +28,11 @@
 ## 🚀 Connect With Me  
 
 <p align="center">
-  <a href="https://github.com/AkshatStark06/" target="_blank">
+  <a href="https://https://github.com/GODcalcarius" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/akshat-srivastava06/" target="_blank">
+  <a href="https://https://www.linkedin.com/in/salman7903//" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
