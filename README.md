@@ -32,7 +32,7 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://https://www.linkedin.com/in/salman7903//" target="_blank">
+  <a href="https://https://www.linkedin.com/in/salman7903/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
@@ -52,7 +52,8 @@
 |---------|-------------|------------|
 | [📊 Sales Data Analysis](#) | Extracted insights, visualized sales trends | Python, Pandas, Matplotlib |
 | [🦠 COVID-19 Dashboard](#) | Built an interactive tracker for cases & vaccinations | Tableau, Power BI |
-| [⚡ EV Motor Optimization](#) | ML model for ripple reduction & efficiency | Python, MATLAB |
+| [Wearable-Health-Monitoring-Device](#) |Wearable system using STM32F405RGT6 to monitor heart rate, SpO₂, and temperature. | STM32, Hardware |
+| [Smart-Traffic-Light-Control-System](#) | A Smart Traffic Light Control System with the use of an embedded board and sensors to manage traffic signals based on real-time conditions | STM 32|
 | [🛒 Retail SQL Analytics](#) | Customer behavior & regional sales insights | SQL |
 
 ---
@@ -60,12 +61,12 @@
 ## 📈 GitHub Stats & Streak  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AkshatStark06&show_icons=true&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Salman Majeed&show_icons=true&theme=radical" height="160"/>
   <img src="https://github-readme-streak-stats-eight.vercel.app?user=AkshatStark06&theme=radical" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkshatStark06&layout=compact&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salman Majeed&layout=compact&theme=radical" height="160"/>
 </p>
 
 
